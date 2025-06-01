@@ -1,6 +1,6 @@
 # Experiment 1: Decentralized Certificate Verification
-# Name:Kavi Keerthana R
-# Reg No:212222100022
+# Name:Kavi kaushik k
+# Reg No:212222040074
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
